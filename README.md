@@ -2,8 +2,8 @@
 
 ## Setup
 
-- `git clone git@github.com:BCC2021-Team-JEE-to-MP-Quarkus-etc/openxday-presentation.git`
-- `cd openxday-presentation`
+- `git clone git@github.com/Baloise-CodeCamp-2022/clojuregame-presentation.git`
+- `cd clojuregame-presentation`
 - `npm install`
  
 ### Build
