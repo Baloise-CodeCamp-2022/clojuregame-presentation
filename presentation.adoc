@@ -1,0 +1,56 @@
+= Codecamp 2022: Clojure
+
+Functional Programming with an unknown language
+
+//:title-slide-background-color: #ff0000
+
+== Motivation
+
+[%step]
+* improve functional programming skills
+* use a unknown language which is hyped by some people
+
+=== Codecamp Goals
+[%step]
+* Understand the pros and cons of the programming language
+* Understand the FP way of clojure compared to other languages (Haskell, Scala)
+
+== Concerns
+
+[%step]
+
+* TBD
+
+== Infrastructure
+
+- CI
+- openshift
+- Hello world
+
+== TicTacToe
+
+- Demo
+
+== Sudoku
+
+- Demo
+
+== Assessment
+
+=== Learning Curve
+
+- (lots of parentheses )
+- TBD
+
+=== Developer experience
+
+- Errorhandling
+- No Types (Either...)
+- TBD
+
+== Conclusion
+
+- TBD
+- TBD
+
+
