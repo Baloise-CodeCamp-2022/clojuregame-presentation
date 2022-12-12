@@ -14,39 +14,45 @@ Functional Programming with an unknown language
 [%step]
 * Understand the pros and cons of the programming language
 * Understand the FP way of clojure compared to other languages (Haskell, Scala)
+* Apply clean architecture
+* Prod-first
+* "Real" application with web ui and persistence
+* Apply TDD
 
-== Concerns
-
-[%step]
-
-* TBD
+== Intro to clojure
+// Peter
+* Syntax
+* REPL
 
 == Infrastructure
-
+// Renat
 - CI
 - openshift
 - Hello world
+- People REST API
 
 == TicTacToe
-
+// Sven
 - Demo
 
 == Sudoku
-
+// Peter
 - Demo
 
 == Assessment
-
+// Sven
 === Learning Curve
 
 - (lots of parentheses )
-- TBD
+- A single week was not enough
 
 === Developer experience
 
 - Errorhandling
 - No Types (Either...)
-- TBD
+- REPL
+- Cursive plugin in intellij
+- Clojuredocs
 
 == Conclusion
 
