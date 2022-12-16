@@ -6,12 +6,10 @@ Functional Programming with an unknown language
 
 == Motivation
 
-[%step]
 * improve functional programming skills
 * use a unknown language which is hyped by some people
 
-=== Codecamp Goals
-[%step]
+== Codecamp Goals
 * Understand the pros and cons of the programming language
 * Understand the FP way of clojure compared to other languages (Haskell, Scala)
 * Apply clean architecture
@@ -39,24 +37,28 @@ Functional Programming with an unknown language
 // Peter
 - Demo
 
-=== Learning Curve
+== Learning Curve
 
 - (lots of parentheses )
 - A single week was not enough
 
-=== Developer experience
+== Developer experience
 
-Renat:
+Renat
 
 - it is possible to code in a 'procedural' style (tictactoe/core/makeMove)
 - Cursive plugin in intellij: inconvenient bc. it is opinionated on what can be typed
 
-Sven:
+== Developer experience
+
+Sven
 
 - No Types (Either...)
 - Errorhandling
 
-Peter:
+== Developer experience
+
+Peter
 
 - REPL
 - Clojuredocs
