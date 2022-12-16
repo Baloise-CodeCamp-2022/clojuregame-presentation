@@ -39,8 +39,6 @@ Functional Programming with an unknown language
 // Peter
 - Demo
 
-== Assessment
-// Sven
 === Learning Curve
 
 - (lots of parentheses )
@@ -48,15 +46,17 @@ Functional Programming with an unknown language
 
 === Developer experience
 
-- Errorhandling
+Renat:
+
+- it is possible to code in a 'procedural' style (tictactoe/core/makeMove)
+- Cursive plugin in intellij: inconvenient bc. it is opinionated on what can be typed
+
+Sven:
+
 - No Types (Either...)
+- Errorhandling
+
+Peter:
+
 - REPL
-- Cursive plugin in intellij
 - Clojuredocs
-
-== Conclusion
-
-- TBD
-- TBD
-
-
